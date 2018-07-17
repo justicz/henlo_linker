@@ -1,0 +1,8 @@
+[package]
+name = "henlo_linker"
+version = "0.1.0"
+authors = ["Max Justicz <max@justi.cz>"]
+
+[dependencies]
+object = "0.9.0"
+byteorder = "1"
